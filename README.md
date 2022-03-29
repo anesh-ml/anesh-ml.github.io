@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Anesh</h1>
 <h2 align="center">About me</h2>
 
-Professionally, I am interested in **solving business problems** using data. I have solved business problems and saved the client some money.
+Professionally, I am interested in **solving business problems** using data. I have solved business problems and saved some money for a client during my tenure at a multinational company.
+
+Below are my personal projects that I developed. 
 
 <p>To check out my <strong>model development skill</strong>, checkout my project 
 
 <a href='https://github.com/anesh-ml/Attention_text_classification'>Text classification using attention mechanism</a></p>
 
-<p>To check out my **data preprocessing skill**, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
+<p>To check out my <strong>data preprocessing skill</strong>, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
 
 <a href='https://github.com/anesh-ml/youtube_comment_intent'>Youtube comment intent analyzer</a>
 
@@ -16,7 +18,7 @@ To check **software development skill**, checkout my project
 
 <a href='https://github.com/anesh-ml/Document-and-ML-track-tool'>ML experiments documenting and tracking tool</a>
 
-All the above projects are original and cannot be found anywhere. If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
+All the above projects are original and cannot be found anywhere (attention mechanism is already existing,I have **modified** the attention model to work with text classification). If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
 
 
 
