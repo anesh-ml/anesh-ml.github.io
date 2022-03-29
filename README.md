@@ -1,20 +1,28 @@
 
 <h1 align="center">Hi 👋, I'm Anesh</h1>
-<h3 align="center">Solving business and societal problems using data</h3>
+<h2 align="center">About me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneshml&label=Profile%20views&color=0e75b6&style=flat" alt="aneshml" /> </p>
+Professionally, I am interested in **solving business problems** using data. I have solved business problems and saved the client some money.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneshml" alt="aneshml" /></a> </p>
+<p>To check out my <strong>model development skill</strong>, checkout my project 
 
-- 🔭 I’m currently working on [YouTube comment intent Analyzer](https://github.com/aneshml/youtube_comment_intent)
+<a href='https://github.com/anesh-ml/Attention_text_classification'>Text classification using attention mechanism</a></p>
 
-- 🌱 I’m currently learning **Geometric deep learning**
+<p>To check out my **data preprocessing skill**, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aneshml](https://github.com/aneshml)
+<a href='https://github.com/anesh-ml/youtube_comment_intent'>Youtube comment intent analyzer</a>
+
+To check **software development skill**, checkout my project
+
+<a href='https://github.com/anesh-ml/Document-and-ML-track-tool'>ML experiments documenting and tracking tool</a>
+
+All the above projects are original and cannot be found anywhere. If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anesh.muthiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/a-anesh-muthiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
