@@ -26,11 +26,12 @@ https://user-images.githubusercontent.com/41319760/163231907-983f3823-4f0c-427f-
 
 
 
+
 <p align="left">
 <a href="https://linkedin.com/in/a-anesh-muthiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://https://github.com/anesh-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
+<a href="https://github.com/anesh-ml" target="blank"><img align="center" src="https://user-images.githubusercontent.com/41319760/163236355-24f9fc32-bbb5-46e0-8ffc-03e5c31ac638.png" alt="anesh.muthiah" height="60" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
