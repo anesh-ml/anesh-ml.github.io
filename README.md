@@ -19,8 +19,7 @@ All the above projects are original and cannot be found anywhere (attention mech
 ## Computer vision projects
 Checkout this <a href="https://github.com/anesh-ml/Analog-controller-using-opencv"> analog controller using computer vision project</a>
 
-https://user-images.githubusercontent.com/41319760/163239967-00df5751-f1dd-487d-bee0-fda1a7c38423.mp4
-
+<video width="420" height="315" src="https://user-images.githubusercontent.com/41319760/163239967-00df5751-f1dd-487d-bee0-fda1a7c38423.mp4" controls></video>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
