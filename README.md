@@ -3,28 +3,34 @@
 <h2 align="center">About me</h2>
 
 Professionally, I am interested in **solving business problems** using data. I have solved business problems and saved some money for a client during my tenure at a multinational company.
-
+<h2 align="center">About my projects</h2>
 Below are my personal projects that I developed. 
 
-<p>To check out my <strong>model development skill</strong>, checkout my project 
+- <p>To check out my <strong>model development skill</strong>, checkout my project <a href='https://github.com/anesh-ml/Attention_text_classification'>Text classification using attention mechanism</a></p>
 
-<a href='https://github.com/anesh-ml/Attention_text_classification'>Text classification using attention mechanism</a></p>
+- <p>To check out my <strong>data centric AI development skill</strong>, check out my project, <a href='https://github.com/anesh-ml/youtube_comment_intent'>Youtube comment intent analyzer</a>
 
-<p>To check out my <strong>data centric AI development skill</strong>, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
+  - I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
 
-<a href='https://github.com/anesh-ml/youtube_comment_intent'>Youtube comment intent analyzer</a>
-
-To check **software development skill**, checkout my project
-
-<a href='https://github.com/anesh-ml/Document-and-ML-track-tool'>ML experiments documenting and tracking tool</a>
+- To check **software development skill**, checkout my project <a href='https://github.com/anesh-ml/Document-and-ML-track-tool'>ML experiments documenting and tracking tool</a>
 
 All the above projects are original and cannot be found anywhere (attention mechanism is already existing,I have **modified** the attention model to work with text classification). If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
 
+## Computer vision projects
+Checkout this <a href="https://github.com/anesh-ml/Analog-controller-using-opencv"> analog controller using computer vision project</a>
 
+https://user-images.githubusercontent.com/41319760/163231907-983f3823-4f0c-427f-8a4f-09ab0425ae4b.mp4
 
 <h3 align="left">Connect with me:</h3>
+
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/a-anesh-muthiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://https://github.com/anesh-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anesh.muthiah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
