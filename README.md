@@ -10,7 +10,7 @@ Below are my personal projects that I developed.
 
 <a href='https://github.com/anesh-ml/Attention_text_classification'>Text classification using attention mechanism</a></p>
 
-<p>To check out my <strong>data preprocessing skill</strong>, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
+<p>To check out my <strong>data centric AI development skill</strong>, check out my project. I have followed <a href='https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=55a488d574f5'>data centric</a> approach for this project.</p>
 
 <a href='https://github.com/anesh-ml/youtube_comment_intent'>Youtube comment intent analyzer</a>
 
