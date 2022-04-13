@@ -17,9 +17,19 @@ Below are my personal projects that I developed.
 All the above projects are original and cannot be found anywhere (attention mechanism is already existing,I have **modified** the attention model to work with text classification). If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
 
 ## Computer vision projects
-Checkout this <a href="https://github.com/anesh-ml/Analog-controller-using-opencv"> analog controller using computer vision project</a>
+- <a href="https://github.com/anesh-ml/Analog-controller-using-opencv"> analog controller using computer vision project</a>
 
 <video width="420" height="315" src="https://user-images.githubusercontent.com/41319760/163239967-00df5751-f1dd-487d-bee0-fda1a7c38423.mp4" controls></video>
+
+- <a href="https://github.com/anesh-ml/Languate_translation_OCR"> Language translation using OCR project</a>
+
+<video width="420" height="315" src="https://user-images.githubusercontent.com/41319760/163250413-1f8ec107-2663-488a-b457-d36ad231614f.mp4" controls></video>
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
