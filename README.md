@@ -38,6 +38,14 @@ All the above projects are original and cannot be found anywhere (attention mech
 
 <h3 align="left">Languages and Tools:</h3>
 <p>AWS</p>
+<p>Pyspark</p>
+<p>Tensorflow</p>
+<p>Pytorch</p>
+<p>MySQL</p>
+<p>Pandas</p>
+<p>Javascript</p>
+<p>HTML</p>
+
 
 
 
