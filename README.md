@@ -5,7 +5,8 @@
 </p>
 <h2 align="center">About me</h2>
 
-Professionally, I am interested in **solving business problems** using data. I have solved business problems and saved some money for a client during my tenure at a multinational company.
+Professionally, I am interested in **solving business problems** using data. I have solved business problems in **network communication** domain and **supply chain**. 
+
 <h2 align="center">About my projects</h2>
 Below are my personal projects that I developed. 
 
