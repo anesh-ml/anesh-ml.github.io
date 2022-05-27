@@ -18,7 +18,7 @@ Below are my personal projects that I developed.
 
 - To check **software development skill**, checkout my project <a href='https://github.com/anesh-ml/Document-and-ML-track-tool'>ML experiments documenting and tracking tool</a>
 
-All the above projects are original and cannot be found anywhere (attention mechanism is already existing,I have **modified** the attention model to work with text classification). If you find the above mentioned skills relevant for **data scientists, data analysts** or **ML engineer** role in your organization, please reach out to me.
+All the above projects are original and cannot be found anywhere (attention mechanism is already existing,I have **modified** the attention model to work with text classification). 
 
 - If you would like to check out my **analysis on Youtube trending videos (2017-2018)**, please check my <a href="https://anesh-ml.github.io/Youtube-trending-video-analysis.github.io/Analysis_document.html"> Youtube videos trend analysis</a>
 
