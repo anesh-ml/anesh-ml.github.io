@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Youtube GPT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+
+    ul {
+      margin-bottom: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 20px auto;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+
+    h2, h3 {
+      color: #555;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Youtube GPT</h1>
+  <ul>
+    <li>This application is used to get information from YouTube videos by asking questions.</li>
+    <li>GPT 3.5 model from OpenAI is used for answering by looking into the transcript of the video.</li>
+  </ul>
+
+  <h2>Usage</h2>
+  <ul>
+    <li>Users should input the YouTube link in the text field.</li>
+    <li>For example, there is a video titled <strong>"Harvard, how many languages do you speak?"</strong>, asking students how many languages they speak.</li>
+  </ul>
+
+  <img src="question.PNG" alt="Image Description">
+
+  <p>After submitting:</p>
+
+  <img src="answer.PNG" alt="Image Description">
+
+  <p>Another example:</p>
+
+  <ul>
+    <li>This video is from Telusko YouTube channel that explains binary search in Python.</li>
+    <li>We can even ask for the timestamp where any topic is discussed.</li>
+  </ul>
+
+  <img src="answer2.PNG" alt="Image Description">
+
+  <p>As we see above, it gives the timestamp where the coding implementation is starting.</p>
+
+  <h3>Conclusion</h3>
+  <ul>
+    <li>This works well for 30-minute videos but has not been checked for 1-hour videos.</li>
+    <li>GPT 3.5 context length is up to 16K tokens, so it is not guaranteed to work for 1-hour videos.</li>
+  </ul>
+</body>
+</html>
